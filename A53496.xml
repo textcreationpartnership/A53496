@@ -1,0 +1,555 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more exact way to delineate the plot of any spacious parcel of land as baronies, parishes, and town-lands, as also of rivers, harbours and loughs, &amp;c. than is as yet in practice : also a method or form of keeping the field-book, and how to cast up the superficial content of a plot most exactly.</title>
+            <author>Osborne, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53496</idno>
+            <idno type="STC">Wing O524</idno>
+            <idno type="STC">ESTC R41513</idno>
+            <idno type="EEBO-CITATION">31355477</idno>
+            <idno type="OCLC">ocm 31355477</idno>
+            <idno type="VID">110490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110490)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1751:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more exact way to delineate the plot of any spacious parcel of land as baronies, parishes, and town-lands, as also of rivers, harbours and loughs, &amp;c. than is as yet in practice : also a method or form of keeping the field-book, and how to cast up the superficial content of a plot most exactly.</title>
+                  <author>Osborne, Henry.</author>
+               </titleStmt>
+               <extent>[4], 7 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Anno Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Henry Osborne.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Surveying --  Early works to 1800.</term>
+               <term>Surveying --  Tables.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110490:1" rendition="simple:additions"/>
+            <p>A MORE EXACT WAY TO Delineate the Plot of any ſpacious parcel of Land, as <hi>Baronies, Pariſhes,</hi> and <hi>Town-Lands,</hi> as alſo-of <hi>Rivers, Harbours</hi> and <hi>Loughs,</hi> &amp;c. than is as yet in practice.</p>
+            <p>ALSO A METHOD OR FORM OF <hi>Keeping the Field-Book,</hi> AND How to caſt up the ſuperficial Content of a PLOT moſt Exactly.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by VVILLIAM BLADEN, <hi>Anno Dom.</hi> 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110490:2"/>
+            <pb facs="tcp:110490:2"/>
+            <head>To the Surveyers of Lands.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Think my ſelf obliged to render an account to you, what hath occaſioned the Publiſhing of this ſhort tract at this time, That I may not be thought either to affect an idle glory to my ſelf by putting a thing in Print, or to be deſirous if impoſing any thing herein upon other Men.</p>
+            <p>Truly I muſt confeſs, that after ſeveral Experiments made for my own private ſatisfaction in the buſineſs of Survey, I finding the ordinary way of keeping a Book, and of Protracti<g ref="char:EOLhyphen"/>on, ſeldom to anſwer that exactneſs I expected, it made me to conſider how thoſe de<g ref="char:EOLhyphen"/>fects might (at leaſt in ſome meaſure) be ſupplyed; which brought into mind ſomething I had read of that kind, (in Mr. <hi>Norwoods</hi> Sea-mans Practice) which after a more ſerious review and proof of, perceiving it to anſwer to my end, I formed ſome ſhort Rules out of it for my own particular uſe.</p>
+            <p>Which caſually communicating to the <hi>Surveyer General,</hi> upon a deſire expreſt by him: That the field Books might in the future Surveys, be ſo kept and ſo returned that it might be poſsible out of them to find how near each parcel of Land (ſurround<g ref="char:EOLhyphen"/>ed by the Inſtrument) did cloſe upon drawing up of the Plot of it; Or in caſe any loſs or diſaſter ſhould come to any of the Plots, that new ones might be framed, by having the fair and true Copies of the ſaid field Books, reſpectively belonging to them.</p>
+            <p>He, upon further Examination of it, and advice had with ſome other perſons con<g ref="char:EOLhyphen"/>cerning it, ſeeming alſo much to approve of this before the ordinary way of Protracti<g ref="char:EOLhyphen"/>on, and commanding me to take the pains to ſet the whole method of it down; to the end, That it might the better be examined, and that if no inconvenience could be de<g ref="char:EOLhyphen"/>monſtrated in it, It might be the more generally imbraced. I, in order to the ſaid com<g ref="char:EOLhyphen"/>mands, and that I might not decline any ſervice injoyned me by the publick, have en<g ref="char:EOLhyphen"/>deavoured to lay down the practical part, with all the plainneſſe I poſsibly could.</p>
+            <p>Wherefore premiſing only this caution to ſuch as ſhall go out into the Field, that
+<pb facs="tcp:110490:3"/>great care be had their Needle do play freely, and that it ſeat it ſelf always in the ſame poſition, in regard that upon the goodneſs of the Needle depends (upon the matter) the whole of <hi>Survey.</hi> The commodities humbly conceived to be in the way here pro<g ref="char:EOLhyphen"/>pounded above the uſual, are principally theſe following:</p>
+            <p>Firſt, that (after the ſumming up of the Columns of the <hi>North, South, Eaſt,</hi> and <hi>VVeſT</hi>) any one may know at the firſt ſight how much the Plot wants of cloſing even to a Link; and this before protraction is made, which cannot be done the uſual way, un<g ref="char:EOLhyphen"/>til the whole be firſt actually laid down; beſides that, in the uſual way after a man hath never ſo carefully plotted and laid down his work, if it cloſe not, it leaves him still doubtful whether the Error be in the Field, or in the Plot, or in both.</p>
+            <p>Secondly, It is a moſt abſolute way for laying down any Plot, for by the uſual way of Protracting, an error once committed is carried on through the whole plot: (if not augmented) whereas in this, if an Error ſhould be committed in one line, in the next line ſhall fall in his true place, and conſequently that Error goes no farther.</p>
+            <p>Thirdly, that for the caſting up the Area of any Figure, it will do it moſt exqui<g ref="char:EOLhyphen"/>ſitely, (and that without plotting if you will) Nay, a Plot caſt up the uſual way although a thouſand times as large, yet ſhall not the Content be cast up ſo exactly as it may this way.</p>
+            <p>Laſtly, To find that there is an Error in the Field work, and yet not to know how readily to find it, will ſomething perplex: yet you have in this way ſome advantage more then in the uſual: for you ſhall ſee whether the Error be on the <hi>North</hi> and <hi>South</hi> ſides of the Plot, or on the <hi>Eaſt</hi> and <hi>Weſt,</hi> or both; and by this means ſhall be able to know where you ſhould run a line croſs your Work for the diſcovery of that Error.</p>
+            <p>Whatſoever is here done with the Sine, and Sine Complement of Arches, in the plotting of Land <hi>&amp;c.</hi> the ſame may be performed with the ſame Certainty by Tangents, and Secants of Arches; but that being beſides this buſineſs I ſhall ſay no more thereof, but remain ready to ſerve the Lovers of Mathematical Learning.</p>
+            <closer>
+               <dateline>
+                  <hi>DUBLIN</hi> 
+                  <date>April <hi>20. 1654.</hi>
+                  </date>
+               </dateline>
+               <signed>Henry Oſborne.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110490:3"/>
+            <head>A More Exact VVay to Delineate the Plot of any ſpa<g ref="char:EOLhyphen"/>cious parcel of Land, as Baronies, Pariſhes and Town-Lands: as alſo of Rivers, Har<g ref="char:EOLhyphen"/>bours and Loughs, <hi>&amp;c.</hi> than is as yet in Practice</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>Sect. 1.</hi> How to keep the Field Book.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving taken and ſet down your notes (of Proprietors names and Lands, bounders, windings, <hi>&amp;c.</hi>) in the Field on the left hand Pages of your Book, you may devide the right hand Page into ſix Columns, (as may be ſeen here<g ref="char:EOLhyphen"/>after) in the firſt may be put the quantities of your lines meaſured in Chains and hundred parts, in the ſecond Co<g ref="char:EOLhyphen"/>lumn how many degrees and parts; the Lines you have traverſed, are diſtant from the <hi>North</hi> or <hi>South</hi> part of the Meridian towards the <hi>Eaſt</hi> or <hi>West;</hi> the other four Co<g ref="char:EOLhyphen"/>lumns are diſtinguiſhed by the names of <hi>South, North, Eaſt</hi> and <hi>Weſt:</hi> in the which are ſet down the <hi>Eaſting, VVeſt<g ref="char:EOLhyphen"/>ing, Northing</hi> and <hi>Southing</hi> of the Degrees and Diſtances obſerved by a Table (the ma<g ref="char:EOLhyphen"/>king and uſe whereof ſhall be ſhown) and for the eaſie underſtanding of which, we ſhall here affix a Table ſo divided and noted as aforeſaid, anſwering to the Scheme adjoyning in which ſuppoſe the line from A. unto B. to be 73. Degrees to the <hi>South</hi> towards the <hi>VVeſt,</hi> and the length of the line A. B. to be 14. Chains and 70. links; again the line B. C. to be 75. Degrees and 36. from the <hi>South</hi> towards to <hi>VVeſt,</hi> and the length of the line B. C. to be 20. Chains :40. links, and alſo the line C. D. to be 87. Degrees from the <hi>South</hi> toward the <hi>VVeſt,</hi> and length C. D. 10. Chains :50. links; the line D. E. 9 Chains :70 links, and the Angle 73. Degrees 30, minutes from the <hi>South</hi> to the <hi>Weſt,</hi>
+                  <pb n="2" facs="tcp:110490:4"/>and this Order is to be obſerved in all the reſt till you have finiſhed your ſurround, and may more plainly appear by the ſubſequent Table.</p>
+               <p>
+                  <table>
+                     <row role="label">
+                        <cell>Diſtances.</cell>
+                        <cell>Angles.</cell>
+                        <cell>South.</cell>
+                        <cell>North,</cell>
+                        <cell>Eaſt.</cell>
+                        <cell>Weſt.</cell>
+                        <cell>X</cell>
+                        <cell>Z</cell>
+                     </row>
+                     <row>
+                        <cell>14 :70</cell>
+                        <cell>73 :00 S W</cell>
+                        <cell>4 29</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>14 :06</cell>
+                        <cell>4 :29</cell>
+                        <cell>14 :06</cell>
+                     </row>
+                     <row>
+                        <cell>20 :40</cell>
+                        <cell>75 :30 S W</cell>
+                        <cell>5 10</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>19 :79</cell>
+                        <cell>9 :39</cell>
+                        <cell>33 :85</cell>
+                     </row>
+                     <row>
+                        <cell>10 :50</cell>
+                        <cell>87 :00 S W</cell>
+                        <cell>0 55</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>10 :49</cell>
+                        <cell>9 :94</cell>
+                        <cell>44 :34</cell>
+                     </row>
+                     <row>
+                        <cell>9 :70</cell>
+                        <cell>73 :30 S W</cell>
+                        <cell>2 76</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>9 :30</cell>
+                        <cell>12 :70</cell>
+                        <cell>53 :64</cell>
+                     </row>
+                     <row>
+                        <cell>29 :00</cell>
+                        <cell>75 :30 S W</cell>
+                        <cell>7 25</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>28 :11</cell>
+                        <cell>19 :95</cell>
+                        <cell>81 :75</cell>
+                     </row>
+                     <row>
+                        <cell>7 :40</cell>
+                        <cell>74 :30 S W</cell>
+                        <cell>1 98</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>7 :12</cell>
+                        <cell>21 :93</cell>
+                        <cell>88 :87</cell>
+                     </row>
+                     <row>
+                        <cell>10 :60</cell>
+                        <cell>
+                           <hi>South.</hi>
+                        </cell>
+                        <cell>10 60</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>00 00</cell>
+                        <cell>32 :53</cell>
+                        <cell>88 :87</cell>
+                     </row>
+                     <row>
+                        <cell>14 :60</cell>
+                        <cell>28 :30 S W</cell>
+                        <cell>12 84</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>6 97</cell>
+                        <cell>45 :37</cell>
+                        <cell>95 :84</cell>
+                     </row>
+                     <row>
+                        <cell>33 :95</cell>
+                        <cell>82 :00 N E</cell>
+                        <cell> </cell>
+                        <cell>4 :74</cell>
+                        <cell>33 :61</cell>
+                        <cell> </cell>
+                        <cell>40 :63</cell>
+                        <cell>62 :23</cell>
+                     </row>
+                     <row>
+                        <cell>25 :00</cell>
+                        <cell>72 :00 N E</cell>
+                        <cell> </cell>
+                        <cell>7 :74</cell>
+                        <cell>25 :75</cell>
+                        <cell> </cell>
+                        <cell>32 :89</cell>
+                        <cell>38 :48</cell>
+                     </row>
+                     <row>
+                        <cell>21 :40</cell>
+                        <cell>78 :30 N E</cell>
+                        <cell> </cell>
+                        <cell>4 :28</cell>
+                        <cell>20 :97</cell>
+                        <cell> </cell>
+                        <cell>28 :61</cell>
+                        <cell>17 :51</cell>
+                     </row>
+                     <row>
+                        <cell>21 :00</cell>
+                        <cell>65 :30 N E</cell>
+                        <cell> </cell>
+                        <cell>8 :71</cell>
+                        <cell>19 :11</cell>
+                        <cell> </cell>
+                        <cell>19 :90</cell>
+                        <cell>1 :60</cell>
+                     </row>
+                     <row>
+                        <cell>20 :00</cell>
+                        <cell>4 :30 N W</cell>
+                        <cell> </cell>
+                        <cell>19 90</cell>
+                        <cell> </cell>
+                        <cell>1 60</cell>
+                        <cell>00 :00</cell>
+                        <cell>00 :00</cell>
+                     </row>
+                     <row role="total">
+                        <cell>238. 25</cell>
+                        <cell> </cell>
+                        <cell>45. 37</cell>
+                        <cell>45. 37</cell>
+                        <cell>97. 44</cell>
+                        <cell>97 :44</cell>
+                        <cell>X</cell>
+                        <cell>Z</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Sect. II.</hi> Of the Conſtruction and uſe of a Table for the more ready and exact laying down of any right Lined <hi>Figure.</hi>
+               </head>
+               <p>THe making of this Table is very eaſie, out of the Tables of natural Sines for each De<g ref="char:EOLhyphen"/>gree and half Degree of the Quadrant; (or nearer if one pleaſe) for if you multiply any diſtance run, by the Sine and Sine Complement anſwering that Degree of Azimuth you meaſured on, the Products ſhall be the number to be put in the <hi>North</hi> or <hi>South</hi> Co<g ref="char:EOLhyphen"/>lumn, and <hi>Eaſt</hi> or <hi>Weſt;</hi> for the reaſon is evident from the firſt Axiom of plain Trian<g ref="char:EOLhyphen"/>gles, that if the Hypotenuſa (in a right angled Triangle) be put as Radius the baſe, and Cathetus ſhall be Sines of their oppoſite Angles: Now in this caſe, the lines meaſured are put as the Hypote<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſa, and ſuppoſed Radius and therefore the ſides ſhall be in pro<g ref="char:EOLhyphen"/>portion to the Sines of their oppoſite Angles, and the Ratio will be as Radius, is to the Diſtance of two places meaſured in their Rumbe: ſo is the Sine Complement of that Rumbe to a fourth number, to be put in the Meridian either Northward or Southward, according as the Rumbe lyeth <hi>North</hi> or <hi>South.</hi> Again as Radius is to the diſtance of two places meaſured in their Rumbe: ſo is the Sine of the Rumbe to a fourth number, to be put in the line of <hi>Eaſt</hi> or <hi>Weſt,</hi> according as the Rumbe lieth <hi>Eaſtward</hi> or <hi>West<g ref="char:EOLhyphen"/>ward;</hi> and this may ſuffice for the conſtruction. Now to the uſe, ſuppoſing our Tables
+<pb n="3" facs="tcp:110490:4"/>already made, now this Table is made for every Degree and half Degree of the Quadrant from the <hi>North</hi> or <hi>South</hi> towards the <hi>Eaſt</hi> or <hi>Weſt,</hi> and is only the Sine Complement of every of theſe Degrees and parts, made into a Table by Duplication, Triplication, Re<g ref="char:EOLhyphen"/>duplication and Bipartition, <hi>&amp;c.</hi> unto ten; by the help whereof, you may make the Numbers only by addition; which Numbers multiplyed unto ten I uſe whither my Num<g ref="char:EOLhyphen"/>ber of Chains be under Ten, a Hundred, or a Thouſand: only obſerve, that the Numbers in the Table ſtand for any Number of Chains under Ten; but if they ſhall amount unto Twenty Chains or above, and leſs than two Hundred, you are to adjoyn a Cipher to the Number found: but if your Number of Chains ſhall exceed two Hundred Chains, and leſs than two Thouſand, you are to adjoyn two Ciphers to the Number found, <hi>&amp;c.</hi> But if you ſhall have any odd Links, you are to ſeek them as if they were whole Chains, only with this caution, that if your Links exceed Ten, you cut off one Figures towards the right hand: but if under Ten, then you cut off two Figures towards the right hand; the reſidue you place under the Number of Chains, and then add them up into one Sum, and cut of the two laſt Figures toward the right hand, the remainder ſhall ſhew the Number of Chains and thoſe two Numbers cut off, ſhall be the Number of Links. An ex<g ref="char:EOLhyphen"/>ample or two will make all eaſie, and ſhew how the Numbers in the Columns of <hi>North, South, Eaſt</hi> and <hi>Weſt</hi> in the little Table are made, which obſerve well.</p>
+               <figure>
+                  <figDesc>surveying diagram</figDesc>
+               </figure>
+               <p>Let the Line A. B. contain in length 14 Chains, 70 Links, and the Angle obſerved is 73 Degrees from the <hi>South</hi> part of the Meridian towards the <hi>VVeſt,</hi> under 73 Degrees in the Table, and againſt 10 in the ſide I find 292; alſo under 17 degrees (the Com<g ref="char:EOLhyphen"/>plement of 73 Degrees to 90.) and againſt 10 in the ſide I find 956 theſe two Numbers I place thus, then in the ſame Table under 73 Degrees, I ſeek my four, Chains againſt 4 in the ſide, and I find 117 to be added to 292 afore found; alſo in the next Column under 17 Degrees, and againſt 4 in the ſide, I find 383 to be added to 956 found in the ſaid Table as before.
+
+<table>
+                     <row>
+                        <cell>292</cell>
+                        <cell>956</cell>
+                     </row>
+                     <row>
+                        <cell>117</cell>
+                        <cell>383</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>67</cell>
+                     </row>
+                     <row role="total">
+                        <cell>4:29</cell>
+                        <cell>14:06</cell>
+                     </row>
+                  </table>
+
+
+
+
+Now here are 70 Links, which 70
+<pb n="4" facs="tcp:110490:5"/>I ſeek under 73 Degrees, and againſt 7 in the ſide, and find 205; alſo againſt 7 in the ſide, and under 17 Degrees I find 669; now according to the rule, becauſe above ten Links I cut off the laſt Figure to the right hand, and they ſtand thus 20 : 67 to be added to the a<g ref="char:EOLhyphen"/>foreſaid Numbers, this done I ſum up theſe Numbers, and they will be 429 and 14 06 but when I have cut off the two laſt Figures to the right hand, then they will be 4 : 29 and 14 : 06, that is 4 Chains 29 Links to be put in the <hi>South</hi> Column, and 14 Chains 6 Links to be put in the <hi>VVeſt;</hi> and alwaies obſerve to put the Number ariſing from the Degree you meaſured on, into the Column of <hi>South</hi> or <hi>North,</hi> according to his Title: and the Number ariſing from the Complement in the Column of <hi>Eaſt</hi> or <hi>VVeſt,</hi> with re<g ref="char:EOLhyphen"/>gard to his Title. The ſecond line B. C. is 20 Chains 40 Links, and the Angle 75 : 30 firſt I ſeek under 75 : 30 and againſt 2 in the ſide (becauſe my Table gives not 20) I find 50 alſo under 14 : 30 the Complement of 75 : 30 in the Column adjoyning I find 194 to both theſe, I adjoyn a Cipher according to the rule, and they will ſtand thus alſo in the ſame Column, and againſt 4 I ſeek 40 Links and I find 100 and 387 which when I have cut off the laſt Figure to the right hand, they will ſtand thus 11 and 29 which added to the former Numbers and the two laſt Figures cut off it will be 5 Chains 10 Links for the <hi>South,</hi> and 19 Chains 79 Links to be put into the <hi>Weſt,</hi> and ſo I proceed with all the reſt until I have finiſhed;
+
+<table>
+                     <row>
+                        <cell>500</cell>
+                        <cell>1940</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>39</cell>
+                     </row>
+                     <row role="total">
+                        <cell>5:10</cell>
+                        <cell>19:79</cell>
+                     </row>
+                  </table>
+
+
+
+
+and being thus returned unto my firſt ſtation, I ſum up ſeverally theſe four Columns of <hi>South, North, Eaſt</hi> &amp; <hi>Weſt,</hi> and finding that the ſum of the <hi>South</hi> Column is equal to that of the <hi>North,</hi> and the ſum of the <hi>Eaſt</hi> is equal to the ſum of the <hi>Weſt,</hi> I conclude the work to be truly performed; whereas i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there had been any difference it ſhews an Error, and if that difference had been great, it is neceſſary to examine the work again, and ſo to cor<g ref="char:EOLhyphen"/>rect it; and thus much for our buſineſs in the Field, we come now to the plotting. And for our more quick diſpatch, we add ſeverally the ſeveral Numbers in each Column together, as in the Example following; and here I begin with the <hi>South</hi> Column, and put them into the Table noted with X thus, 4 : 29 4:29 &amp; more by 5 : 10 is equal to 9 : 39. and 9 : 39 added to 0 : 55 is equal to 9 : 94 and 9 : 94 added to 2 : 76 is equal to 12 : 70. and 12 : 70 added to 7 : 25 is equal to 19 : 95. and 19 : 95 added to 1 : 98 is equal to 21 : 93. &amp; 21 : 93 added to 10 : 60 is equal to 32 : 53. &amp; 32 : 53 added to 12:84 is equal to 45 : 37. And thus is the <hi>South</hi> Column ſummed up, and the ſeveral Numbers in the <hi>Northern</hi> Column, are to be ſubducted out of the <hi>South</hi> Column; Thus 4 : 74 ſub<g ref="char:EOLhyphen"/>ſtracted from 45 : 37 there reſts 40 : 63. and 7 : 74 ſubducted from 40 : 63 there reſts 32 : 89. and 4 : 28 ſubſtracted from 32 : 89 there remains 28 : 61. and 8 : 71 ſubducted from 28 : 61 there reſts 19 : 90. and 19 : 90 ſubducted from 19 : 90 there reſts 00 : 00. And thus you ſee I have drawn the <hi>North</hi> and <hi>South</hi> Columns into the Column X. I ſhall proceed in the ſame manner with the <hi>Eaſt</hi> and <hi>VVeſt</hi> Columns, as to draw them into the Column Z. firſt 14 : 06 and 14 : 06 added to 19 : 79 is equal to 33 : 85. and 33 :85 added to 10 : 49 is equal to 44 : 34 &amp; 44 : 34 added to 9 : 30 is equal to 33 : 64. and 53 : 64 added to 28 : 11 is equal to 81 :75. &amp; 81 :75 added to 7 : 12 is equal to 88 : 87. and 88 : 87 added to 00: 00 is equal to 88 : 87. (and this is the reaſon of twice 88 : 87 in the Table Z) &amp; 88 : 87. added to 6 : 97 is equal to 95 : 84. and ſo far is the <hi>Weſt</hi> Column ſummed up: the <hi>Eaſt</hi> Column follows, and is to be ſubducted out of the <hi>Weſt</hi> thus, 33 : 61 ſubſtracted from 95 : 84 there reſts 62 : 23. and 23 : 75 ſubducted
+<pb n="5" facs="tcp:110490:5"/>from 62 : 23 there reſts 38 : 48. and 20 : 97 ſubducted from 38 48 there reſts 17 : 51. and 19 : 11 ſubſtracted from 17 : 51, which becauſe I cannot do, I ſubduct 17 : 51 out of 19 : 11 there reſts 1 : 60. <hi>Eaſt,</hi> from which I ſubduct 1 : 60 in the <hi>West,</hi> and there remains 00 : 00. And thus is my two Columns of X and Z made, by which I lay down the Scheme.</p>
+               <p>
+                  <table>
+                     <row role="label">
+                        <cell>Diſtances.</cell>
+                        <cell>Angles.</cell>
+                        <cell>South.</cell>
+                        <cell>North.</cell>
+                        <cell>Eaſt.</cell>
+                        <cell>Weſt.</cell>
+                        <cell>X</cell>
+                        <cell>Z</cell>
+                     </row>
+                     <row>
+                        <cell>14 :70</cell>
+                        <cell>73 :00 S W</cell>
+                        <cell>4 29</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>14 :06</cell>
+                        <cell>4 :29</cell>
+                        <cell>14 :06</cell>
+                     </row>
+                     <row>
+                        <cell>20 :40</cell>
+                        <cell>75 :30 S W</cell>
+                        <cell>5 10</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>19 :79</cell>
+                        <cell>9 :39</cell>
+                        <cell>33 :85</cell>
+                     </row>
+                     <row>
+                        <cell>10 :50</cell>
+                        <cell>87 :00 S W</cell>
+                        <cell>0 55</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>10 :49</cell>
+                        <cell>9 :94</cell>
+                        <cell>44 :34</cell>
+                     </row>
+                     <row>
+                        <cell>9 :70</cell>
+                        <cell>73 :30 S W</cell>
+                        <cell>2 76</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>9 :30</cell>
+                        <cell>12 :70</cell>
+                        <cell>53 :64</cell>
+                     </row>
+                     <row>
+                        <cell>29 :00</cell>
+                        <cell>75 :30 S W</cell>
+                        <cell>7 25</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>28 :11</cell>
+                        <cell>19 :95</cell>
+                        <cell>81 :75</cell>
+                     </row>
+                     <row>
+                        <cell>7 :40</cell>
+                        <cell>74 :30 S W</cell>
+                        <cell>1 98</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>7 :12</cell>
+                        <cell>21 :93</cell>
+                        <cell>88 :87</cell>
+                     </row>
+                     <row>
+                        <cell>10 :60</cell>
+                        <cell>
+                           <hi>South.</hi>
+                        </cell>
+                        <cell>10 60</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>00 00</cell>
+                        <cell>32 :53</cell>
+                        <cell>88 .87</cell>
+                     </row>
+                     <row>
+                        <cell>14 :60</cell>
+                        <cell>28 :30 S W</cell>
+                        <cell>12 84</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>6 97</cell>
+                        <cell>45 :37</cell>
+                        <cell>95 :84</cell>
+                     </row>
+                     <row>
+                        <cell>33 :95</cell>
+                        <cell>82 :00 N E</cell>
+                        <cell> </cell>
+                        <cell>4 :74</cell>
+                        <cell>33 :61</cell>
+                        <cell> </cell>
+                        <cell>40 :63</cell>
+                        <cell>62 :23</cell>
+                     </row>
+                     <row>
+                        <cell>25 :00</cell>
+                        <cell>72 :00 N E</cell>
+                        <cell> </cell>
+                        <cell>7 :74</cell>
+                        <cell>25 :75</cell>
+                        <cell> </cell>
+                        <cell>32 :89</cell>
+                        <cell>38 :48</cell>
+                     </row>
+                     <row>
+                        <cell>21 :40</cell>
+                        <cell>78 :30 N E</cell>
+                        <cell> </cell>
+                        <cell>4 :28</cell>
+                        <cell>20 :97</cell>
+                        <cell> </cell>
+                        <cell>28 :61</cell>
+                        <cell>17 :51</cell>
+                     </row>
+                     <row>
+                        <cell>21 :00</cell>
+                        <cell>65 :30 N E</cell>
+                        <cell> </cell>
+                        <cell>8 :71</cell>
+                        <cell>19 :11</cell>
+                        <cell> </cell>
+                        <cell>19 :90</cell>
+                        <cell>1 :60</cell>
+                     </row>
+                     <row>
+                        <cell>20 :00</cell>
+                        <cell>4 :30 N W</cell>
+                        <cell> </cell>
+                        <cell>19 90</cell>
+                        <cell> </cell>
+                        <cell>1 60</cell>
+                        <cell>00 :00</cell>
+                        <cell>00 :00</cell>
+                     </row>
+                     <row role="total">
+                        <cell>238. 25</cell>
+                        <cell> </cell>
+                        <cell>45. 37</cell>
+                        <cell>45. 37</cell>
+                        <cell>97. 44</cell>
+                        <cell>97:44</cell>
+                        <cell>X</cell>
+                        <cell>Z</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>Sect. III.</hi> How to Delineate the Scheme.</head>
+               <p>COnſidering which way the Ground lies, I take a point for my firſt Station; So as the whole may fall conveniently within the Plot, which let be the point A. By which point I draw a Meridian and Paralel, namely two right lines interſecting one an<g ref="char:EOLhyphen"/>other at right Angles, whereof let N S be the Meridian running <hi>North</hi> and <hi>South,</hi> and E W. the Paralel running <hi>Eaſt</hi> and <hi>Weſt:</hi> And firſt I look to the <hi>South</hi> and <hi>North</hi> Co<g ref="char:EOLhyphen"/>lumns, and there in the <hi>South</hi> Column, and againſt the firſt ſtation I find 4:29. and even with it in the <hi>VVeſt</hi> I find 14 : 06 then with my Compaſſes, on a Scale of equal parts, I meaſure this 4 : 29 on the Meridian line, from A. towards S, to 1. Alſo I take the length of 14 : 06 of the Seale, and ſet it on the line of <hi>Eaſt</hi> and <hi>Weſt,</hi> from A to 1; then keep<g ref="char:EOLhyphen"/>ing your Compaſſes at that diſtance, ſet one point in the Meridian line at 1, and with the other point deſcribe a ſmall Arch towards B. then ſet the Compaſſes to the firſt diſtance 4 : 29 and ſetting one point in 1 on the line of <hi>Eaſt</hi> and <hi>Weſt</hi> Croſs the aforeſaid Arch, and in the point of croſſing note it with a prick, and a line drawn from this point to the point A repreſents my firſt line A B 14 : 70. Then I obſerve againſt my ſecond Station in the Column X Z. for the <hi>South</hi> 9 : 39 and for the <hi>Weſt</hi> 33 :85. Firſt I take the 9 : 39 on the Scale of equal Parts and lay it as before on the Meridian line N. S. from A. to 2; alſo I take the length 33 :85 and meaſure it on the line of <hi>Eaſt</hi> and <hi>Weſt</hi> from A to 2: then
+<pb n="6" facs="tcp:110490:6"/>keeping your Compaſſes at that diſtance ſet one point in the Meridian line at 2. and with the other foot deſcribe an Arch toward C. then ſetting the Compaſſes at the former di<g ref="char:EOLhyphen"/>ſtance 939 ſet one point in the Line of <hi>Eaſt</hi> and <hi>Weſt</hi> at 2. and with the other foot Croſs the aforeſaid Arch, and note the point of croſſing for a line drawn from thence to the point B. is my ſecond line 20 :40, and thus you may lay down the diſtances C.D.E. &amp;c. till you have included the figure, the practice of this but once makes all perfect.</p>
+               <p>
+                  <figure>
+                     <figDesc>surveying diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>Sect. IIII.</hi> How to caſt up the Superficial Content.</head>
+               <p>NOw for the exact caſting up the Area, the very bare Inſpection will Declare it; for in the firſt Triangle A. B. 1, it is plain by the Table that the Baſe is 14 : 06, the Cathetus 4 : 29; the ſecond Triangle B. C. Q. the Baſe 19 : 79 and the Cathetus 5 : 10; alſo the Parallelogram 1. B. 2. Q. hath for his ſides the Cathetus of the firſt Triangle 4 : 29, &amp; Baſe of the ſecond Triangle 19 : 79; So it is obvious for all the reſt; then ha<g ref="char:EOLhyphen"/>ving conſidered the length &amp; breadth of the Rectangle Figure <hi>a b c d</hi> (within which the greateſt extent of your Plot is contained) drawn into one another, and from the product you ſhall ſubduct the products of all thoſe Triangles, and Parrallelograms comprehend<g ref="char:EOLhyphen"/>ed within the ſaid Rectangle Figure, and perimeter of your Plot; the remainder ſhall be the Superficial Content of that Figure: as in the foregoing Scheme the ſides of the Rectangle Figure containing the Plot are 45 :37 and 97: 44, which drawn into one ano<g ref="char:EOLhyphen"/>ther, is 44208528; and the Products of the ſeveral Triangles and Parrallelograms are 23799003; which ſubducted from the former, there reſts 204 : 09525, which are the Number of ſquare Links in the Plot, and if your Chain be four Pole; than are you to cut off the five laſt Figures towards the right hand, the reſidue ſhall be the Numbers of Acres,
+<pb n="7" facs="tcp:110490:6"/>as thus, 204 : 09525 is 204 Acres, and 9525 Links; but if your Chain be two Pole, than the fourth pare of this number ſhall be the Number of Acres, <hi>viz.</hi> 51 Acres and 2381 Links, or almoſt 4 Perch; for like Plains are in a Duplicate Ratio to their Homologal ſides by 20. <hi>Eucl.</hi> 6. (that is) as a Quadrat to a Quadrat; and therefore if three Lines are proportional, it ſhall be as the firſt is to the third: So is the ſuperficies upon the firſt, to the ſuperficies on the ſecond; For example, 1. 2. 4, are proportional therefore as 1. is to 4: ſo is the ſquare of 1. to the ſquare of 2. upon this depends the reaſon of reduction of Plots or quantities, either bigger or leſſer.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
